@@ -1,0 +1,29 @@
+{
+  "name": "react_movie_list",
+  "version": "1.0.0",
+  "description": "React Movie_list app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techReboot/movielist.git"
+  },
+  "keywords": [
+    "react",
+    "movielist"
+  ],
+  "author": "Shey Sarumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techReboot/movielist/issues"
+  },
+  "homepage": "https://github.com/techReboot/movielist#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.0"
+  }
+}
